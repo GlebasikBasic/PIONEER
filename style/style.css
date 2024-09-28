@@ -1,5 +1,5 @@
 body {
-    width: 1440px;
+    width: auto;
     font-family: "Source Sans 3", sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -253,13 +253,14 @@ margin-bottom: 20px;
 }
 footer {
     color: white;
-    width: 1180px;
+    width: auto;
     height: auto;
     background-color: #333333;
     padding-left: 130px;
     padding-right: 155px;
     padding-top: 56px;
     padding-bottom: 24px;
+    margin: 0 auto;
 }
 .page-footer-menu > img {
     margin-right: 420px;
